@@ -1,3 +1,3 @@
 html//scss//javascript
 
-gh=pages https://shidensy.github.io/logistic/
+gh=pages https://shidensy.github.io/Logistic/
